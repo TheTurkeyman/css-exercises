@@ -1,8 +1,15 @@
 .Nums {background-color: rgb(255, 192, 203);
        font-family: "Verdana", "DejaVu Sans", sans-serif;
       }
-#Num2 {color: hsl(240, 100%, 50%);
-       font-size: 24px;}
-.Nums.adv {background-color: #90EE90;
+#Num2 {
+color: hsl(240, 100%, 50%);
+       font-size: 24px;
+}
+
+.Nums.adv {
            font-size: 24px;
-           font-size: 800;}
+           font-weight: 800;}
+
+#Num4 {background-color: rgb(12, 237, 12);
+       font-size: 24px;
+       font-weight: 800;}          
